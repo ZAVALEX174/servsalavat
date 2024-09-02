@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b953d7a-cfa3-4784-ae43-08d7037cb529" name="192.168.126.128">
+        <fileTransfer rootFolder="/home" accessType="SFTP" host="192.168.126.128" port="22" sshConfigId="535d06e1-d799-4721-a364-bb00dd43ab7b" sshConfig="bitrix@192.168.126.128:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
